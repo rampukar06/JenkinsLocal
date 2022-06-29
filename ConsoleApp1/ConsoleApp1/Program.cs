@@ -9,8 +9,9 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.Write("Hello world!");
+        {            
+            Console.WriteLine("Hello world!");
+            Console.WriteLine("Welcome!");
         }
     }
 }
